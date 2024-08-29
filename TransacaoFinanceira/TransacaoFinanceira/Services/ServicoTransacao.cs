@@ -1,6 +1,8 @@
 ﻿using System;
+using TransacaoFinanceira.Interfaces;
+using TransacaoFinanceira.Models;
 
-namespace TransacaoFinanceira
+namespace TransacaoFinanceira.Services
 {
     public class ServicoTransacao
     {

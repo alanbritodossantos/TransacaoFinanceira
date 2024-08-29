@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using TransacaoFinanceira.Models;
+using TransacaoFinanceira.Services;
 
 //Obs: Voce é livre para implementar na linguagem de sua preferência, desde que respeite as funcionalidades e saídas existentes, além de aplicar os conceitos solicitados.
 namespace TransacaoFinanceira

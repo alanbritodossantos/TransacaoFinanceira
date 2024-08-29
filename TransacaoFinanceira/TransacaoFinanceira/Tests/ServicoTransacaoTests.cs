@@ -1,6 +1,9 @@
-﻿using Xunit;
+﻿using TransacaoFinanceira.Interfaces;
+using TransacaoFinanceira.Models;
+using TransacaoFinanceira.Services;
+using Xunit;
 
-namespace TransacaoFinanceira
+namespace TransacaoFinanceira.Tests
 {
     public class ServicoTransacaoTests
     {

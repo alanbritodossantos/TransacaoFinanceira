@@ -1,7 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using TransacaoFinanceira.Interfaces;
+using TransacaoFinanceira.Models;
 
-namespace TransacaoFinanceira
+namespace TransacaoFinanceira.Services
 {
     public class RepositorioConta : IRepositorioConta
     {

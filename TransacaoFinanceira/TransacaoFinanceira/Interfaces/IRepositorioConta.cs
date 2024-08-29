@@ -1,5 +1,6 @@
-﻿
-namespace TransacaoFinanceira
+﻿using TransacaoFinanceira.Models;
+
+namespace TransacaoFinanceira.Interfaces
 {
     public interface IRepositorioConta
     {

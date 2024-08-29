@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using TransacaoFinanceira.Models;
 
-namespace TransacaoFinanceira
+namespace TransacaoFinanceira.Services
 {
     public class AcessoDados
-    {   
+    {
         private readonly List<ContaSaldo> TABELA_SALDOS;
 
         public AcessoDados()
@@ -24,7 +25,7 @@ namespace TransacaoFinanceira
         }
 
         public ContaSaldo GetSaldo(uint id)
-        {             
+        {
             return TABELA_SALDOS.Find(x => x.Conta == id);
         }
 

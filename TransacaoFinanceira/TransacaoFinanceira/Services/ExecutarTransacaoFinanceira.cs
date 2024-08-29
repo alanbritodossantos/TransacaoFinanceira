@@ -1,6 +1,7 @@
 ﻿using System;
+using TransacaoFinanceira.Models;
 
-namespace TransacaoFinanceira
+namespace TransacaoFinanceira.Services
 {
     class ExecutarTransacaoFinanceira : AcessoDados
     {

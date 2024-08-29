@@ -1,4 +1,4 @@
-﻿namespace TransacaoFinanceira
+﻿namespace TransacaoFinanceira.Models
 {
     public class Transacao
     {
