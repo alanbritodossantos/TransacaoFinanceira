@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using TransacaoFinanceira.Models;
 
-namespace TransacaoFinanceira.Services
+namespace TransacaoFinanceira.Repositories
 {
     public class AcessoDados
     {

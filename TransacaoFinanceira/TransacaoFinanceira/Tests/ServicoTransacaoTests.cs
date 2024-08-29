@@ -1,5 +1,6 @@
 ﻿using TransacaoFinanceira.Interfaces;
 using TransacaoFinanceira.Models;
+using TransacaoFinanceira.Repositories;
 using TransacaoFinanceira.Services;
 using Xunit;
 

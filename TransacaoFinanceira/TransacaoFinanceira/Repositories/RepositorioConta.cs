@@ -3,7 +3,7 @@ using System.Linq;
 using TransacaoFinanceira.Interfaces;
 using TransacaoFinanceira.Models;
 
-namespace TransacaoFinanceira.Services
+namespace TransacaoFinanceira.Repositories
 {
     public class RepositorioConta : IRepositorioConta
     {

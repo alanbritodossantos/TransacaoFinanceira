@@ -1,5 +1,6 @@
 ﻿using System;
 using TransacaoFinanceira.Models;
+using TransacaoFinanceira.Repositories;
 
 namespace TransacaoFinanceira.Services
 {
